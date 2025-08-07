@@ -1,7 +1,7 @@
 # Interview-Knowledge-Handbook
 Interview Knowledge Handbook
 
-## 1.大语言模型（LLM）面试知识手册
+## [1.大语言模型（LLM）面试知识手册](https://github.com/Keep-Doing-guoguo/Interview-Knowledge-Handbook/blob/main/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C.md)
 
 涵盖预训练、SFT、DPO、PPO、推理优化、注意力机制等核心问答
 
